@@ -31,7 +31,7 @@ navtitle: udarian notes # optional, specifies the text to display on navigation 
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-kagami
+#theme: jekyll-theme-kagami
 plugins:
   - jekyll-feed
 
