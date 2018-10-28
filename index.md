@@ -1,2 +1,6 @@
 ---
-# Hello!
+layout: page
+title: Home
+---
+
+Hello!
