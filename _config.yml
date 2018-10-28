@@ -27,13 +27,14 @@ instagram_username: udarian
 
 #NAVIGATION
 navlevel: header
-navtitle: udarian notes # optional, specifies the text to display on navigation item
+navtitle: Awesome Title # optional, specifies the text to display on navigation item
 
 #PERMALINK
 permalink: /:year/:month/:day/:title.html
 
 # Build settings
 markdown: kramdown
+
 #theme: jekyll-theme-kagami
 plugins:
   - jekyll-feed
