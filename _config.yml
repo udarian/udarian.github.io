@@ -29,6 +29,9 @@ instagram_username: udarian
 navlevel: header
 navtitle: udarian notes # optional, specifies the text to display on navigation item
 
+#PERMALINK
+permalink: /:year/:month/:day/:title:output_ext
+
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-kagami
