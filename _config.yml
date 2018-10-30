@@ -52,4 +52,4 @@ plugins:
 #   - vendor/ruby/
 
 #color scheme : http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html
-color_scheme: colorful
+color_scheme: github
