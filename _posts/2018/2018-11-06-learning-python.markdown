@@ -4,7 +4,7 @@ title: "Learning Python - Is really easy like they said?"
 date: "2018-11-06 19:08"
 category: python
 ---
-![Data Scientiest](https://raw.githubusercontent.com/udarian/udarian.github.io/master/assets/images/anatomy_of_data_scientiest.jpg
+![Data Scientiest](https://raw.githubusercontent.com/udarian/udarian.github.io/master/assets/images/anatomy_of_data_scientiest.jpg)
 
 It is the first time i am learn `Python`, because i had an assignment on `Data Science` and `Data Analytics` class. I don't have any idea what should i do.
 
