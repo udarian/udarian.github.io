@@ -35,6 +35,7 @@ _Image Source : Analytics Vidya_
 - [numpy - Package for scientific computing with Python](http://www.numpy.org/)
 - [newspaper3k - Simplified python article discovery & extraction](https://pypi.org/project/newspaper3k/)
 - [matplotlib - Python 2D plotting library](https://matplotlib.org/index.html)
+- [Keras: The Python Deep Learning library](https://keras.io)
 - _it will update soon_
 
 ```
