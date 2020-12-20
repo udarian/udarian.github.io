@@ -4,7 +4,7 @@ title: "StackEdit - In-Browser Markdown Editor"
 date: "2020-12-20 23:45"
 category: Markdown
 ---
-![StackEdit](https://github.com/udarian/udarian.github.io/blob/master/images/2020/12/stackedit-menu.png)
+![StackEdit](https://github.com/udarian/udarian.github.io/raw/master/images/2020/12/stackedit-menu.png)
 Saya menemukan sebuah tool yang cukup memudahkan untuk menulis dalam format **Markdown** karena memiliki fitur WYSIWYG controls.
 
 ![WYSIWYG Controls](https://github.com/udarian/udarian.github.io/raw/master/images/2020/12/stackedit-menu.png)
